@@ -1,4 +1,4 @@
-# CJSYS2012 免安裝版
+# CJSYS2012 免安裝版改SKIN
 CJSYS2012，倉頡平台2012改皮膚  
 倉頡平台2012來源  
 https://www.chinesecj.com/forum/forum.php?mod=viewthread&tid=193324
