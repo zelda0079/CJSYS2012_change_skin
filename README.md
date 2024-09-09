@@ -4,8 +4,8 @@ CJSYS2012，倉頡平台2012改皮膚
 https://www.chinesecj.com/forum/forum.php?mod=viewthread&tid=193324
 
 ## 皮膚來源  
-★泰瑞版小小輸入法  
-https://terryhung.pixnet.net/blog/post/26968247  
+小小輸入法臺灣包2018年版
+https://fygul.blogspot.com/2018/05/yong-tw2018.html
 
 ###如果電腦能安裝話，推薦使用倉頡平台2022  
 https://www.chinesecj.com/forum/forum.php?mod=viewthread&tid=195320  
