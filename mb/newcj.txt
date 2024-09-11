@@ -35294,13 +35294,12 @@ ybok 敵
 ybok 敌
 ybok; 敌
 ybr 週
-ybr 過
 ybr 迥
 ybr 啻
 ybr 迵
 ybr 周
-ybr; 過
-ybr;; 迥
+ybr; 迥
+ybr;; 啻
 ybrd 髞
 ybrf 啻
 ybrj 迵
